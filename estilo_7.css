@@ -1,0 +1,20 @@
+table {
+        width:600px;/*largura que a tabela vai ocupar*/
+        height: 400px;/*altura*/
+}
+
+#c1 {
+        background-color: darkgreen;
+        text-align: center;
+        color: white;
+}
+
+#c2 {
+        background-color: darkgreen;
+        text-align: center;
+        color: white;
+}
+
+#c3 {
+        text-align: center;
+}
